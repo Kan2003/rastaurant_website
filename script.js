@@ -9,10 +9,6 @@ nav.classList.toggle('active');
 bar.classList.toggle('active');
 })
 }
-
-
-
-
 if(close){
 
 close.addEventListener('click' , ()=>
